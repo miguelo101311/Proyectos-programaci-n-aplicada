@@ -38,7 +38,7 @@ print(my_lista)
 print(my_lista.index('Azul'))
 
 # Eliminar un elemento (si no existe lanza error)
-# my_lista.remove('Magenta')  # ❌ Da error porque no está en la lista
+# my_lista.remove('Magenta')  #  Da error porque no está en la lista
 my_lista.remove('Marron')      # Elimina el primer 'Marron'
 print(my_lista)
 
@@ -58,3 +58,4 @@ my_lista_3 = my_lista * 3
 print("my_lista_3: ", my_lista_3)
 
 # Ordenar lista de forma ascende
+
