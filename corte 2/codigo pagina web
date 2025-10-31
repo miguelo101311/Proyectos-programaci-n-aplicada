@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Página sobre Circuitos Eléctricos</title>
+</head>
+<body style="background-color: #f0f8ff; font-family: Arial, sans-serif;">
+  <h1 style="color: blue;">Introducción a los Circuitos Eléctricos</h1>
+
+  <p>Un <b>circuito eléctrico</b> es un conjunto de elementos conectados entre sí que permiten el <i>flujo de corriente eléctrica</i>. Los componentes principales de un circuito son las <b>fuentes de energía</b>, los <b>conductores</b> y las <b>cargas</b> como resistencias o bombillas.</p>
+
+  <h2 style="color: green;">Componentes de un Circuito</h2>
+  <ul>
+    <li><b>Resistencia (R):</b> limita la corriente que circula.</li>
+    <li><b>Capacitor (C):</b> almacena energía en forma de campo eléctrico.</li>
+    <li><b>Inductor (L):</b> almacena energía en forma de campo magnético.</li>
+  </ul>
+
+  <h2 style="color: red;">Ejemplo de valores típicos</h2>
+  <table border="1" cellpadding="5" cellspacing="0">
+    <tr>
+      <th>Componente</th>
+      <th>Símbolo</th>
+      <th>Valor</th>
+    </tr>
+    <tr>
+      <td>Resistencia</td>
+      <td>R</td>
+      <td>1 kΩ</td>
+    </tr>
+    <tr>
+      <td>Capacitor</td>
+      <td>C</td>
+      <td>10 µF</td>
+    </tr>
+    <tr>
+      <td>Inductor</td>
+      <td>L</td>
+      <td>10 mH</td>
+    </tr>
+  </table>
+
+  <h2 style="color: purple;">Imágenes de Componentes</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Componentes.JPG/1200px-Componentes.JPG" alt="Componentes de un circuito" width="300">
+
+  <h2>Enlace de consulta</h2>
+  <p>Para más información, visita la <a href="https://es.wikipedia.org/wiki/Circuito_el%C3%A9ctrico" target="_blank">página de Wikipedia sobre circuitos eléctricos</a>.</p>
+
+  <h2>Ejemplo de cálculo</h2>
+  <p>Si una fuente de <span style="color: green;"><b>12V</b></span> alimenta una resistencia de <span style="color: red;"><b>1kΩ</b></span>, la corriente será: <b>I = V / R = 12V / 1000Ω = 0.012 A</b>.</p>
+
+  <h2 style="color: brown;">Enlace de repositorio de GitHub</h2>
+  <p>Puedes visitar mi repositorio en GitHub haciendo clic aquí: 
+    <a href="https://github.com/miguelo101311" target="_blank">https://github.com/miguelo101311</a>
+  </p>
+
+  <p style="color: gray;">Página creada como ejemplo sencillo en HTML por un estudiante de electrónica.</p>
+</body>
+</html>
